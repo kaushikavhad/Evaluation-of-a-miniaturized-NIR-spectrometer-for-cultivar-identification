@@ -1,0 +1,1 @@
+# Evaluation-of-a-miniaturized-NIR-spectrometer-for-cultivar-identification
