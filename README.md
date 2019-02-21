@@ -1,1 +1,2 @@
 # Evaluation-of-a-miniaturized-NIR-spectrometer-for-cultivar-identification
+Crop cultivar identification is fundamental for agricultural research and industries. Dataset is having data of 2650 samples of barley, chickpea and sorghum with different cultivars, all samples were scanned using the miniaturized NIR spectrometer with wavelength coverage of 740nm to 1070nm (331 variables). The aim of the project was to build predictive multiclass models by using different machine learning algorithms (KNN, Random Forest, Decision Tree and SVM) for classification of cultivars.
